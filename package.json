@@ -2,7 +2,7 @@
     "name": "travistest",
     "version": "1.0.0",
     "description": "",
-    "main": "test.js",
+    "main": "test2.js",
     "repository": {
       "type": "git",
       "url": "git+https://github.com/yt4307/Travis_test.git"
