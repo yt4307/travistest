@@ -1,10 +1,19 @@
 {
-    "name": "travistest",
-    "version": "1.0.0",
-    "description": "",
-    "main": "testtravis.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/yt4307/Travis_test.git"
-    }
+  "name": "travistest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yt4307/travistest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yt4307/travistest/issues"
+  },
+  "homepage": "https://github.com/yt4307/travistest#readme"
 }
