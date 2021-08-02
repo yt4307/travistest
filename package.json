@@ -1,0 +1,14 @@
+{
+    "name": "travistest",
+    "version": "1.0.0",
+    "description": "",
+    "main": "test.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/yt4307/Travis_test.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "homepage": "https://github.com/yt4307/Travis_test#readme",
+  }
