@@ -1,1 +1,1 @@
-console.log("잘 되는지 확인좀");
+console.log("test");
